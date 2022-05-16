@@ -6,10 +6,10 @@ using namespace std;
 int main()
 {
     
-    int a = 7;
-    int b = 12;
+    int a = 5;
+    int b = 7;
     int c = 3;
-    int d = 4;
+    int d = 9;
 
     if ((a != 3 || b < 10 || c == 5)) {
         cout << "a) v \n";

@@ -35,6 +35,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula0513_PersistenciaDoBanc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula0513X", "Aula0513X\Aula0513X.vcxproj", "{0CBC2A30-3C57-4265-9911-A04880D5CE44}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4906932-A7CE-487E-8A15-A65FB247D4FD}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula0520A", "Aula0520A\Aula0520A.vcxproj", "{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +244,18 @@ Global
 		{0CBC2A30-3C57-4265-9911-A04880D5CE44}.Release|x64.Build.0 = Release|x64
 		{0CBC2A30-3C57-4265-9911-A04880D5CE44}.Release|x86.ActiveCfg = Release|Win32
 		{0CBC2A30-3C57-4265-9911-A04880D5CE44}.Release|x86.Build.0 = Release|Win32
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Debug|Any CPU.Build.0 = Debug|x64
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Debug|x64.ActiveCfg = Debug|x64
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Debug|x64.Build.0 = Debug|x64
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Debug|x86.Build.0 = Debug|Win32
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Release|Any CPU.ActiveCfg = Release|x64
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Release|Any CPU.Build.0 = Release|x64
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Release|x64.ActiveCfg = Release|x64
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Release|x64.Build.0 = Release|x64
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Release|x86.ActiveCfg = Release|Win32
+		{FC76A6A7-F404-48B2-8256-8B2DC55EBDD6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
